@@ -36,11 +36,11 @@ print(assets_loaded)
 
 # --- Settings For DataBase ---
 db_config = {
-    'user': 'u215915_XncKbz2EO5',
-    'password': '=Sc0cjDk!rr.b!^eh8tMS8CE',
-    'host': 'mysql3.joinserver.xyz',  # Или ваш хост
-    'port': '3306',
-    'database': 's215915_mcAuth'
+    'user': '',
+    'password': '',
+    'host': '',  # Или ваш хост
+    'port': '',
+    'database': ''
 }
 print(db_cfg_loaded)
 
