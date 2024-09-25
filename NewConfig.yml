@@ -1,0 +1,203 @@
+# AimStar Config File
+# Version: 4.4
+# Author: Author
+ESP:
+  Enable: true
+  BoneESP: false
+  BoxESP: true
+  BoxType: 0
+  SnapLine: false
+  LinePos: 0
+  HealthBar: true
+  AmmoBar: true
+  WeaponESP: true
+  EyeRay: false
+  PlayerName: true
+  DistanceESP: false
+  HealthNum: false
+  HeadBox: false
+  Preview: true
+  VisCheck: false
+  FilledBox: false
+  FilledVisBox: false
+  MultiColor: false
+  OutLine: true
+  HeadBoxStyle: 0
+  BoxRounding: 0.050124988
+  ShowScoped: false
+  ArmorBar: false
+  ArmorNum: false
+  MaxRenderDistance: 0
+  BoneColor:
+    r: 0
+    g: 1
+    b: 1
+    a: 1
+  BoxColor:
+    r: 1
+    g: 0.313725501
+    b: 0
+    a: 1
+  SnapLineColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 0.862745166
+  EyeRayColor:
+    r: 1
+    g: 0
+    b: 0
+    a: 1
+  HeadBoxColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  VisibleColor:
+    r: 1
+    g: 0.768627524
+    b: 0
+    a: 1
+  FilledColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 0.501960814
+  FilledColor2:
+    r: 0
+    g: 1
+    b: 0.400000036
+    a: 1
+  FilledVisColor:
+    r: 0
+    g: 0
+    b: 1
+    a: 1
+  PenisColor:
+    r: 1
+    g: 0
+    b: 0
+    a: 0.784313798
+  PenisESP: false
+  PenisLength: 12.7284746
+  PenisSize: 2.35475063
+Crosshairs:
+  Enable: true
+  Size: 75
+  Dot: true
+  Crossline: true
+  tStyle: false
+  Circle: false
+  Outline: true
+  DynamicGap: false
+  TeamCheck: true
+  Preset: 0
+  Gap: 8
+  H_Length: 6
+  V_Length: 6
+  Thickness: 1
+  DotSize: 1
+  CircleRadius: 3
+  TargetCheck: false
+  CrosshairsColor:
+    r: 0
+    g: 1
+    b: 0
+    a: 1
+  TargetedColor:
+    r: 1
+    g: 0
+    b: 0
+    a: 1
+Radar:
+  Enable: false
+  Type: 2
+  Range: 150
+  Proportion: 3300
+  PointProportion: 1
+  Alpha: 0.100000001
+  Custom: false
+  Crossline: false
+  CrosslineColor:
+    r: 0.862745166
+    g: 0.862745166
+    b: 0.862745166
+    a: 1
+Misc:
+  Bhop: true
+  HeadShootLine: false
+  HeadShootLineColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 0.784313798
+  WorkInSpec: true
+  Fov: 90
+  FlashImmunity: 0
+  CheatList: true
+  Watermark: false
+  HitMarker: true
+  HitSounds: 2
+  BombTimer: true
+  TimerColor:
+    r: 1
+    g: 0.470588267
+    b: 0
+    a: 1
+  FastStop: false
+  SpecList: false
+  Glow: false
+  RadarHack: false
+  MoneyService:
+    Enable: false
+    ShowCashSpent: false
+  NoSmoke: false
+  NightMode: false
+  NightModeAlpha: 0
+  JumpThrow: false
+  TeamCheck: true
+  AntiRecord: false
+  Jitter: false
+  SmokeColor:
+    Enable: false
+    r: 1
+    g: 0
+    b: 0
+Aimbot:
+  Enable: true
+  Ragebot: false
+  AimLock: false
+  ToggleMode: false
+  Hotkey: 7
+  AimBullet: 1
+  Fov: 8.04621601
+  FovMin: 0
+  FovCircle: true
+  CircleColor:
+    r: 0.70588237
+    g: 1
+    b: 0
+    a: 1
+  Smooth: 2
+  Hitboxes:
+    - 6
+  VisibleCheck: true
+  IgnoreFlash: false
+  ScopeOnly: false
+  AutoShot: true
+Recoil Control System:
+  Enable: true
+  Yaw: 2
+  Pitch: 2
+Triggerbot:
+  Enable: false
+  Hotkey: 0
+  Delay: 90
+  FakeShot: 200
+  ScopeOnly: false
+  IgnoreFlash: false
+  AutoMode: false
+Menu:
+  SafeMode: false
+  RenderFrameLimit: 144
+  Theme: 0
